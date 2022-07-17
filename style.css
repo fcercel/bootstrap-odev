@@ -1,0 +1,16 @@
+.body {
+  background-color: #E9ECEF;
+}
+.color-red
+    {
+        color: red;
+}
+.color-orng{
+    color: sandybrown;
+}
+.pill{
+    background-color: grey; 
+    color: white; 
+    font-size: 9px;
+    
+}
